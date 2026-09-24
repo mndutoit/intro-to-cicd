@@ -18,6 +18,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Test the code
         run: echo "Replace this with the test code"
+# Comment for the code below just to test someting
       - name: Install dependencies
         run: npm install
       - name: Run tests
